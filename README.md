@@ -1,8 +1,8 @@
 <!--
 # 💫About Me :
 -->
-## Hi there 👋
-# I am XuanTruong, thanks for watching.
+# Hi there 👋
+ *I am XuanTruong, thanks for watching!*
 <!--
 **xuantruong1612/xuantruong1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
